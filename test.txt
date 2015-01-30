@@ -1,0 +1,4 @@
+1) Jenkins
+2) Update everytihng
+3) grunt locally
+4) legacy grunt
