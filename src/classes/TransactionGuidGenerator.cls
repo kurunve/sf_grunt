@@ -20,6 +20,9 @@ public class TransactionGuidGenerator {
         return returnValue;
     }
     
+    private static String omg(){
+        return 'it is alive'
+    }
     private static String getCharAtIndex(String str, Integer index) {
        /* if (str == null ||)
             return null;

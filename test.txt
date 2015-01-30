@@ -2,3 +2,6 @@
 2) Update everytihng
 3) grunt locally
 4) legacy grunt
+//use mock up from my own sandbox
+
+5)Jenkins GitHub pull request builder plugin
