@@ -21,7 +21,7 @@ public class TransactionGuidGenerator {
     }
     
     private static String omg(){
-        return 'it is alive'
+        return 'it is alive' //error here
     }
     private static String getCharAtIndex(String str, Integer index) {
        /* if (str == null ||)
