@@ -1,4 +1,6 @@
 public class TransactionGuidGenerator {
+    public error();
+    ololo
     public static String generateGuid(){    
     	String returnValue = '';
         Integer nextByte = 0;
