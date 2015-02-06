@@ -1,6 +1,8 @@
 public class TransactionGuidGenerator {
-    public error();
-    ololo
+    public void error(){
+    	string p = 'ololo';
+    }
+
     public static String generateGuid(){    
     	String returnValue = '';
         Integer nextByte = 0;
